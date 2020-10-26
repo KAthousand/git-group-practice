@@ -1,5 +1,6 @@
 # git-group-practice
 
+This is Cory's addition to the Readme file! Click the link.
 Kevin Dev Branch
 This is Cory's addition to the Readme file!
 
